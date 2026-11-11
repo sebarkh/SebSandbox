@@ -1,0 +1,3 @@
+build/Install-SebSandbox.ps1
+build/*.exe
+*.log
